@@ -1,0 +1,8 @@
+flask
+line-bot-sdk
+google-genai
+python-dotenv
+gunicorn
+Pillow
+
+openpyxl
